@@ -1,0 +1,67 @@
+* {
+   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+   background-color: whitesmoke;
+   padding: 10px;
+}
+
+#title {
+   text-align: center;
+   font-size: 2.5rem;
+   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+p {
+   text-align: center;
+}
+p {
+   text-transform: uppercase;
+}
+figure {
+   background-color: white;
+   padding: 10px;
+}
+
+figcaption {
+   text-align: center;
+   font-size: large;
+   font-weight: bolder;
+   padding: 10px;
+}
+
+#tribute-info {
+   text-align: center;
+}
+#tribute-info ul li {
+   font-family: serif;
+   list-style-type: circle;
+}
+.timelineHeading {
+   font-size: 1.2rem;
+   padding: 20px;
+   font-weight: bold;
+}
+
+.date {
+   font-weight: bold;
+}
+
+ul {
+   display: inline-block;
+   text-align: left;
+}
+
+li {
+   padding: 5px;
+}
+
+#image {
+   max-width: 100%;
+   height: auto;
+   display: block;
+   margin: 0 auto;
+   border-radius: 4px;
+   padding: 5px;
+}
